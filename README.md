@@ -24,4 +24,5 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+30 31 ```
 
