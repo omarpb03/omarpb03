@@ -2,9 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Se ejecuta todos los días a la medianoche (Hora UTC)
     - cron: '0 0 * * *'
-  # Permite ejecutar el flujo manualmente desde la pestaña Actions
   workflow_dispatch:
 
 jobs:
@@ -15,10 +13,9 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SECTION_NAME: waka
           LOCALE: "es"
-          SHOW_TIMEZONE: "false"
-          SHOW_EDITORS: "true"
-          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
