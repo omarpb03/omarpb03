@@ -23,3 +23,7 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hi()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarpb03&show_icons=true&theme=tokyonight&locale=es" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarpb03&layout=compact&theme=tokyonight&locale=es" height="165" alt="Lenguajes más usados" />
+</p>
