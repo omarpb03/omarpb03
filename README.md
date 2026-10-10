@@ -76,6 +76,21 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Megadapt – Mental Model Extraction (IIMAS, UNAM)</h3>
+      <p>NLP pipeline for automated extraction of mental models (causal nodes & edges) from qualitative interviews in the Megadapt project (Iztapalapa, Xochimilco, Magdalena Contreras). Combines dynamic few-shot prompting, LlamaIndex, and a standardized project-specific term dictionary to structure unstructured social-hydrological research data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-8E24AA?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LlamaIndex-00FFFF?style=flat"/>
+        <img src="https://img.shields.io/badge/Few--Shot-FF6F00?style=flat"/>
+        <img src="https://img.shields.io/badge/RAG-4CAF50?style=flat"/>
+        <img src="https://img.shields.io/badge/UNAM-8B0000?style=flat"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
