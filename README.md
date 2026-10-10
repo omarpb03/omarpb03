@@ -36,10 +36,13 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
 <table width="100%">
   <tr>
     <td align="center" valign="top">
-      <h3>⭐ 🧠 SUANDY — Production Supervisor Copilot</h3>
-      <p><em>Flagship Project · Grupo Bimbo</em></p>
+      <h3>⭐ 🏭 Production Supervisor Copilot · Grupo Bimbo</h3>
+      <p><em>Enterprise Project · Industrial Analytics &amp; LLMs</em></p>
       <p>
-        LLM-powered assistant for production supervisors at Grupo Bimbo. Combines a conversational interface with an analytical engine to monitor KPIs, detect anomalies, and support real-time operational decisions across manufacturing plants.
+        Conversational and analytical copilot for production supervisors at Marinela / Grupo Bimbo manufacturing plants.
+        Integrates with transactional data sources (WMS, ERP/GBC manufacturing systems, and weekly order programs)
+        to correlate operational variables, monitor production line performance, and deliver real-time KPIs
+        through a natural-language interface.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -48,7 +51,7 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
         <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/omarpb03/suandy-copilot">🔗 Ver Repositorio</a></p>
+      <p><img src="https://img.shields.io/badge/%F0%9F%94%92%20Internal%20%2F%20Proprietary-critical?style=flat&logoColor=white"/></p>
     </td>
   </tr>
 </table>
