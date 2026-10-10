@@ -8,9 +8,9 @@
 
 ## 📌 About Me
 
-I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Ciencias) 🎓, based in Mexico City 🇲🇽, currently working at **Grupo Bimbo** building ML pipelines, LLM-powered applications, and data engineering solutions at scale.
+I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Ciencias) 🎓, based in Mexico City 🇲🇽, currently working at **Grupo Bimbo** building ML pipelines, LLM-powered solutions, and data engineering systems at scale.
 
-- 🔭 Currently building... An LLM-powered production supervisor copilot with an analytical engine at Grupo Bimbo
+- 🔭 Currently building... Scalable ML workflows and exploring production-grade LLM architectures
 - 🌱 Deepening knowledge in... Advanced Deep Learning (NLP & Computer Vision) and the Databricks/Spark ecosystem
 - 👯 Open to collaborate on... Open-source ML projects, ETL pipelines, and AI-powered business applications
 - 💬 Ask me about... Data Science, actuarial models, competitive chess ♟️, and languages 🌐
@@ -32,31 +32,6 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
 
 ## 🚀 Featured Projects
 
-<!-- ── Flagship Project (full width) ── -->
-<table width="100%">
-  <tr>
-    <td align="center" valign="top">
-      <h3>⭐ 🏭 Production Supervisor Copilot · Grupo Bimbo</h3>
-      <p><em>Enterprise Project · Industrial Analytics &amp; LLMs</em></p>
-      <p>
-        Conversational and analytical copilot for production supervisors at Marinela / Grupo Bimbo manufacturing plants.
-        Integrates with transactional data sources (WMS, ERP/GBC manufacturing systems, and weekly order programs)
-        to correlate operational variables, monitor production line performance, and deliver real-time KPIs
-        through a natural-language interface.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLM-00FFFF?style=flat&logo=openai&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-      </p>
-      <p><img src="https://img.shields.io/badge/%F0%9F%94%92%20Internal%20%2F%20Proprietary-critical?style=flat&logoColor=white"/></p>
-    </td>
-  </tr>
-</table>
-
-<!-- ── Other Projects (2×2 grid) ── -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -79,7 +54,7 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
         <img src="https://img.shields.io/badge/Geospatial-0D47A1?style=flat"/>
         <img src="https://img.shields.io/badge/UNAM-8B0000?style=flat"/>
       </p>
-      <p><a href="https://github.com/omarpb03/rainfall-monitoring">🔗 Ver Repositorio</a></p>
+      <p><img src="https://img.shields.io/badge/%F0%9F%94%92%20Academic%20Research%20Project-555555?style=flat&logoColor=white"/></p>
     </td>
   </tr>
   <tr>
