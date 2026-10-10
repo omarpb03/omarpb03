@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=omarpb03">
-    <img src="https://komarev.com/ghpvc/?username=omarpb03&label=Profile%20views&color=00FFFF&style=flat-square" alt="omarpb03's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=omarpb03&label=Profile%20views&color=00FFFF&style=flat-square" alt="omarpb03 profile views" />
   </a>
 </p>
 
@@ -32,18 +32,30 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
 
 ## 🚀 Featured Projects
 
-<table>
+<!-- ── Flagship Project (full width) ── -->
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 SUANDY – Production Supervisor Copilot</h3>
-      <p>LLM-powered assistant for production supervisors at Grupo Bimbo. Combines a conversational interface with an analytical engine to monitor KPIs, detect anomalies, and support real-time operational decisions.</p>
+    <td align="center" valign="top">
+      <h3>⭐ 🧠 SUANDY — Production Supervisor Copilot</h3>
+      <p><em>Flagship Project · Grupo Bimbo</em></p>
+      <p>
+        LLM-powered assistant for production supervisors at Grupo Bimbo. Combines a conversational interface with an analytical engine to monitor KPIs, detect anomalies, and support real-time operational decisions across manufacturing plants.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LLM-00FFFF?style=flat&logo=openai&logoColor=black"/>
         <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
         <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       </p>
+      <p><a href="https://github.com/omarpb03/suandy-copilot">🔗 Ver Repositorio</a></p>
     </td>
+  </tr>
+</table>
+
+<!-- ── Other Projects (2×2 grid) ── -->
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚽ FIFA World Cup 2026 Predictor</h3>
       <p>ML-based prediction system for the 2026 FIFA World Cup. Built as a FastAPI service with MLOps automation — automated retraining, model versioning, and a REST API for match outcome predictions.</p>
@@ -53,11 +65,10 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
         <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat"/>
       </p>
+      <p><a href="https://github.com/omarpb03/world-cup-2026-predictor">🔗 Ver Repositorio</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🌧️ Hydrological Observatory – Rainfall Monitor</h3>
+      <h3>🌧️ Hydrological Observatory — Rainfall Monitor</h3>
       <p>Real-time rainfall monitoring and prediction system for the IIUNAM Hydrological Observatory at UNAM. Handles sensor data ingestion, anomaly detection, and predictive alerts for Mexico City.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -65,7 +76,10 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
         <img src="https://img.shields.io/badge/Geospatial-0D47A1?style=flat"/>
         <img src="https://img.shields.io/badge/UNAM-8B0000?style=flat"/>
       </p>
+      <p><a href="https://github.com/omarpb03/rainfall-monitoring">🔗 Ver Repositorio</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🍽️ Commercial Menu Advisor</h3>
       <p>AI agent built with Streamlit that recommends menu items for a food business, combining product data, seasonality, and demand patterns to support commercial decisions.</p>
@@ -74,12 +88,11 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
         <img src="https://img.shields.io/badge/LLM%20Agent-00FFFF?style=flat"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
+      <p><a href="https://github.com/omarpb03/menu-advisor">🔗 Ver Repositorio</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🧩 Megadapt – Mental Model Extraction (IIMAS, UNAM)</h3>
-      <p>NLP pipeline for automated extraction of mental models (causal nodes & edges) from qualitative interviews in the Megadapt project (Iztapalapa, Xochimilco, Magdalena Contreras). Combines dynamic few-shot prompting, LlamaIndex, and a standardized project-specific term dictionary to structure unstructured social-hydrological research data.</p>
+      <h3>🧩 Megadapt — Mental Model Extraction</h3>
+      <p>NLP pipeline for automated extraction of mental models (causal nodes & edges) from qualitative interviews in the Megadapt project (IIMAS, UNAM). Combines dynamic few-shot prompting, LlamaIndex, and a standardized term dictionary to structure social-hydrological research data.</p>
       <p>
         <img src="https://img.shields.io/badge/NLP-8E24AA?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LlamaIndex-00FFFF?style=flat"/>
@@ -87,8 +100,7 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
         <img src="https://img.shields.io/badge/RAG-4CAF50?style=flat"/>
         <img src="https://img.shields.io/badge/UNAM-8B0000?style=flat"/>
       </p>
-    </td>
-    <td width="50%" valign="top">
+      <p><a href="https://github.com/omarpb03/megadapt-nlp">🔗 Ver Repositorio</a></p>
     </td>
   </tr>
 </table>
@@ -141,20 +153,18 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/omarpb03">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omarpb03&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="omarpb03's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omarpb03&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&hide=prs,issues" alt="omarpb03's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=omarpb03&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="omarpb03's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=omarpb03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Omar Parra Bautista's GitHub Trophies" />
-</p>
+
 <p align="center">
   <a href="https://github.com/omarpb03">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omarpb03&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide=jupyter%20notebook" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omarpb03&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide=jupyter%20notebook,html,roff" alt="Top Languages" />
   </a>
 </p>
 
@@ -164,10 +174,10 @@ I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Cienci
 
 <p align="center">
   <a href="https://www.linkedin.com/in/opbautista">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Omar Parra Bautista's LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Omar Parra Bautista LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:omarpb@ciencias.unam.mx">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Omar Parra Bautista's Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Omar Parra Bautista Email"/>
   </a>
 </p>
 
