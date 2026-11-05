@@ -6,15 +6,14 @@
   </a>
 </p>
 
-## 📌 About Me
+## About Me
 
 I'm a **Data Scientist & Actuarial Science student** at UNAM (Facultad de Ciencias) 🎓, based in Mexico City 🇲🇽, currently working at **Grupo Bimbo** building ML pipelines, LLM-powered solutions, and data engineering systems at scale.
 
-- 🔭 Currently building... Scalable ML workflows and exploring production-grade LLM architectures
+- Currently building... Scalable ML workflows and exploring production-grade LLM architectures
 - 🌱 Deepening knowledge in... Advanced Deep Learning (NLP & Computer Vision) and the Databricks/Spark ecosystem
-- 👯 Open to collaborate on... Open-source ML projects, ETL pipelines, and AI-powered business applications
+- Open to collaborate on... Open-source ML projects, ETL pipelines, and AI-powered business applications
 - 💬 Ask me about... Data Science, actuarial models, competitive chess ♟️, and languages 🌐
-- ⚡ Fun fact... I enjoy calisthenics and quality time with my cat Orion 🐱
 
 ---
 
